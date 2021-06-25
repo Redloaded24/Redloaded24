@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redloaded24
-- 👀 I’m interested in Game dev
-- 🌱 I’m currently learning Basics of computer science
+- 👀 I’m interested in Machine Learnig
+- 🌱 I’m currently Searching for free resoureces
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
